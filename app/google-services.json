@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "60394908561",
+    "project_id": "enigmassiette",
+    "storage_bucket": "enigmassiette.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60394908561:android:5354947788be4bbfba8830",
+        "android_client_info": {
+          "package_name": "com.example.enigmassiette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60394908561-c954l5a8qiolfv3dld9ske30djkdiei6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo6Q-fD1-FFRyK5f4uHJMexkSs7Mc4Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60394908561-c954l5a8qiolfv3dld9ske30djkdiei6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60394908561:android:75cb7662fb7f4d3cba8830",
+        "android_client_info": {
+          "package_name": "com.example.projetenigmassiette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60394908561-c954l5a8qiolfv3dld9ske30djkdiei6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo6Q-fD1-FFRyK5f4uHJMexkSs7Mc4Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60394908561-c954l5a8qiolfv3dld9ske30djkdiei6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
